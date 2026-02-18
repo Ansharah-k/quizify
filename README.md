@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-> Coming soon on Streamlit Cloud
+> https://quizify-bt-saar.streamlit.app/
 
 ---
 
@@ -110,14 +110,6 @@ http://localhost:8501
 | 🌐 HTML | Tags, Attributes, Structure |
 | ▲ Next.js | SSR, Routing, API, ISR |
 
----
-
-## 👩‍💻 Developer
-
-**Ansharah**
-- GitHub: [@Ansharah-k](https://github.com/Ansharah-k)
-
----
 
 ## 📄 License
 
